@@ -19,4 +19,3 @@ Launch jupyter lab by typing below. Your default browser will be launched.
 Navigate to the exercise directory and open the .ipynb notebook by double clicking. Now you can work on the problems!
 
 
-# CS356-Lec02-PacketSwitching-Solution
